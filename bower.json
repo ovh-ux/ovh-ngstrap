@@ -1,7 +1,7 @@
 {
   "name": "ovh-ngstrap",
   "description": "AngularStrap - AngularJS directives for Bootstrap",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "main": "./dist/ovh-ngstrap.min.js",
   "repository":{
     "type": "git",

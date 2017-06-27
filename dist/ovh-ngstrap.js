@@ -1338,6 +1338,10 @@ angular.module("ovh-ngStrap-tooltip").run(["$templateCache", function ($template
 
 "use strict";
 
+angular.module("ovh-ngStrap-popover", ["ovh-ngStrap-tooltip"]);
+
+"use strict";
+
 angular.module("ovh-ngStrap-popover").provider("$ovhpopover",
                                                function () {
                                                    var defaults = this.defaults = {
