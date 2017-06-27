@@ -1,6 +1,6 @@
 {
   "name": "ovh-ngstrap",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "AngularStrap - AngularJS directives for Bootstrap",
   "main": "./dist/ovh-ngstrap.min.js",
   "repository": "ovh-ux/ovh-ngstrap",
