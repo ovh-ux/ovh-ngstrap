@@ -15,7 +15,6 @@
     "src",
     "karma.conf.js",
     ".eslintrc.json",
-    ".jshintrc",
     ".editorconfig"
   ],
   "dependencies": {
